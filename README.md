@@ -1,4 +1,4 @@
-Code runs as expected, but there are two ways that the tests run correctly when executed in this specified order of running: 
+Code runs as expected; there are two ways that the tests run correctly when executed in this specified order of running: 
 
 - Way 1: run proj2_test 0 and then proj2_test 1 (right after)
 
